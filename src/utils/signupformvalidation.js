@@ -28,4 +28,4 @@ const signUpFormValidation = (formData) => {
     return error
 }
 
-export { signUpFormValidation }
+export { signUpFormValidation };
